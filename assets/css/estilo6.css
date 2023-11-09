@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+}
+
+.centered {
+    margin: 0 auto;
+}
+
+nav {
+    background-color: #ffc1d5;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease; 
+}
+
+nav ul li a:hover {
+    background-color: #8d5288; 
+}
+
+img {
+    display: block; 
+    margin: 0 auto; 
+    max-width: 100%; /
+    border: 3px solid #69bd45; 
+    border-radius: 10px; 
+}
+
+body {
+    text-align: center;
+}
+
+.centered {
+    margin: 0 auto;
+}
+
+.logo {
+    width: 150px; 
+    height: auto; 
+}
